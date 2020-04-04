@@ -7,3 +7,5 @@ This program has four genres:1.Motivational quotes
                              4.Sarcastic quotes.
                             
 It will simply print the quotes based on the genres chosen by the user.
+
+To run the program download the folder named "executable-file" and run main.exe 
