@@ -6,7 +6,7 @@ This program has four genres:<br>
                             
 It will simply print the quotes based on the genres chosen by the user.<br>
 
-To run the program download the folder named "executable-file" and run main.exe<br>
+To run this program download the folder named "executable-file" and run main.exe<br>
 
 
 # License <br>
